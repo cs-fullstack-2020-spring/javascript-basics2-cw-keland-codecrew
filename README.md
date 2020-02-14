@@ -1,5 +1,7 @@
 # JavaScript-Basics2-CW
-
+#### Check out my comments in your JS file called ind2.js
+#### You only needed to create one JS file and ond HTML file
+#### Score : 0
 ### Question 1
 Create two variables. One should equal “My name is: “ and the other should equal your name. Print the two variables in one print message.
 
